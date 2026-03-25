@@ -1,0 +1,11 @@
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/bin/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.deps.json
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/bin/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.dll
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/bin/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.pdb
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj.AssemblyReference.cache
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.GeneratedMSBuildEditorConfig.editorconfig
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.AssemblyInfoInputs.cache
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.AssemblyInfo.cs
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj.CoreCompileInputs.cache
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.sourcelink.json
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.dll
+/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/Release/netstandard2.0/ICSharpCode.Decompiler.PdbProvider.Cecil.pdb

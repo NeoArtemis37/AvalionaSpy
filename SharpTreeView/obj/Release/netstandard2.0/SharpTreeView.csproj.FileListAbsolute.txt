@@ -1,0 +1,9 @@
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/bin/Release/netstandard2.0/SharpTreeView.deps.json
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/bin/Release/netstandard2.0/SharpTreeView.dll
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/bin/Release/netstandard2.0/SharpTreeView.pdb
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.csproj.AssemblyReference.cache
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.GeneratedMSBuildEditorConfig.editorconfig
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.csproj.CoreCompileInputs.cache
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.sourcelink.json
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.dll
+/home/artemis37/Downloads/AvaloniaILSpy/SharpTreeView/obj/Release/netstandard2.0/SharpTreeView.pdb

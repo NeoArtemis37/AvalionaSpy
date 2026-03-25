@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <band id="alpha">
+        <latestVersion>4.0.0.1</latestVersion>
+        <downloadUrl>
+        https://github.com/icsharpcode/AvaloniaILSpy/releases
+        </downloadUrl>
+    </band>
+</updateInfo>

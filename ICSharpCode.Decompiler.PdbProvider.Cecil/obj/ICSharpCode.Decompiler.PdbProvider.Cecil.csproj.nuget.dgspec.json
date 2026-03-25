@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj": {}
+  },
+  "projects": {
+    "/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj",
+        "projectName": "ICSharpCode.Decompiler.PdbProvider.Cecil",
+        "projectPath": "/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/ICSharpCode.Decompiler.PdbProvider.Cecil.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/artemis37/Downloads/AvaloniaILSpy/ICSharpCode.Decompiler.PdbProvider.Cecil/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artemis37/Downloads/AvaloniaILSpy/nuget.config",
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "ICSharpCode.Decompiler": {
+              "target": "Package",
+              "version": "[8.0.0.7345, )"
+            },
+            "Mono.Cecil": {
+              "target": "Package",
+              "version": "[0.11.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.IO.FileSystem.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime.Handles": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-arm64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
