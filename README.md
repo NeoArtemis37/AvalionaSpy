@@ -1,54 +1,28 @@
-# Archival Notice
+<img src="artemis-project-cover.svg" alt="Avalonia ILSpy snapshot - Third-party snapshot" width="100%" />
 
-As outlined in issue #136 we were looking for maintainers, but nobody stepped forward. Thus it has been unmaintained for a very long period of time, 
-and we decided to archive the repository.
+# AvalionaSpy
 
-Alternative: [ilspy-vscode](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode) has more features than AvaloniaILSpy ever had and
-is available on all platforms thanks to VS Code. See [feature comparison](https://github.com/icsharpcode/ilspy-vscode/wiki/Feature-Comparison) for what is 
-not there compared to the WPF/Windows version of ILSpy. All future xplat work is focused on the VS Code extension.
+A preserved copy of **AvaloniaILSpy**, the cross-platform .NET decompiler interface built with Avalonia.
 
-We do not intend to resurrect a "copy of ILSpy with UI framework XYZ" as this project has proven how hard it is to keep a copy up to date.
+**Status:** third-party source snapshot. This repository is not the upstream project and does not claim authorship of ILSpy or AvaloniaILSpy.
 
+## Provenance
 
-# AvaloniaILSpy ![Build AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy/workflows/Build%20AvaloniaILSpy/badge.svg?branch=master)
+The existing source and README identify [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) as the original project. Its archival notice explains that upstream maintenance ended and points readers to [ILSpy for VS Code](https://github.com/icsharpcode/ilspy-vscode).
 
-This is cross-platform version of [ILSpy](https://github.com/icsharpcode/ILSpy) built with [Avalonia](https://github.com/AvaloniaUI/Avalonia).
+Please use upstream documentation for supported versions and current releases. No new release or support commitment is made by this copy.
 
-![](https://github.com/icsharpcode/AvaloniaILSpy/raw/master/preview.png)
+## What is included
 
-Supported Features 
--------
- * Decompilation
- * Analyze Window
- * Search for types/methods/properties (substring)
- * Hyperlink-based type/method/property navigation
- * Extensible via MEF Extensibility (Check out TestPlugin folder). Note: This is not compatible with ILSpy Plugins.
- * Check out [feature support status](https://github.com/icsharpcode/AvaloniaILSpy/issues/1)
+- The `ILSpy.sln` solution and decompiler-related projects.
+- The `SharpTreeView/` interface components.
+- A `TestPlugin/` example and documentation under `doc/`.
+- Existing preview artwork and historical build outputs.
 
-# Download
+## Repository notes
 
-## Stable Release
+This is an archive for source reading and learning about desktop application architecture. The checked-in `bin/` and `obj/` outputs are historical artefacts, not verified release packages.
 
-https://github.com/icsharpcode/AvaloniaILSpy/releases
+## Credits and licences
 
-## Bleeding-edge Builds
-Grab artifacts from the [latest master CI build](https://github.com/icsharpcode/AvaloniaILSpy/actions?query=workflow%3A%22Build+AvaloniaILSpy%22+branch%3Amaster+is%3Asuccess).
-This includes Linux, Mac and Windows.
-
-How to run on Linux: 
-- just open it
-- if you have trouble, please try to grant it the rights to execute `chmod a+x ILSpy`
-- you could also run it in command line by `./ILSpy`
-
-How to run on Mac:
-- just move the app into `/Applications` folder and open it
-- run `xattr -rd com.apple.quarantine /Applications/ILSpy.app`
-- if you see `“ILSpy” cannot be opened because the developer cannot be verified.`, please open up `System Preferences` -> `Security & Privacy` -> `General` -> `Open Anyway` 
-- if you see the error `The application ILSpy can't be opened' error on launch`, you could `chmod +x "/Applications/ILSpy.app/Contents/MacOS/ILSpy"`
-
-# Build from sources
-
-1. Install dotnet 6 or above from https://dotnet.microsoft.com/en-us/download/dotnet
-2. Clone repository : `git clone https://github.com/icsharpcode/AvaloniaILSpy.git`.
-3. Run build script: `dotnet tool restore` and `dotnet cake`
-4. Artifacts will be located in subdirectory `artifacts`.
+Credit belongs to the ILSpy and AvaloniaILSpy contributors and the other projects named in their source notices. Preserve the copyright and licence files under `doc/`, `SharpTreeView/` and the source tree when reusing material. The name of this repository does not replace those notices.
